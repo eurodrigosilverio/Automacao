@@ -72,6 +72,7 @@ Importar o projeto diretamente do eclipe cria toda a estrutura dentro da IDE. Pa
 ![Clonar repositório Git](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%204.jpg)
 
 6. O clone do repositorio será feito. Clique em "Next"
+
 ![Clonar repositorio 1](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%205.jpg)
 
 7. Ainda na tela "Clone Rpository Git" deixe seleciona a opção "Import allexisting Eclipse after clone finishes". Clique em "Finish"
