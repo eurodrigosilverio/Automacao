@@ -49,4 +49,4 @@ Descompacte o .zip em alguma pasta no seu computador. Para ficar alinhado com o 
 *Notas:*
 
 - A pasta 84 refere-se à versão do Chrome Driver copiado.
-- Essa estrutura é referenciada no código para executar corretamente a chamada do navegador Chrome. Se descompactar o Chomr Driver em alguma estrutura diferente lembre-se de modificar no código.
+- Essa estrutura é referenciada no código para executar corretamente a chamada do navegador Chrome. Se descompactar o Chrome Driver em alguma estrutura diferente lembre-se de modificar no código.
