@@ -30,11 +30,15 @@ Acesse o site do [Open JDK](https://jdk.java.net/14/), faça o download da últi
 
 ### Eclipse IDE
 
-Acesse o site do [Eclipse](https://www.eclipse.org/downloads/), faça o dowload e instale. Caso o computador que irá rodar a automação esteja rodando Windows 64 bits selecione a opção destacada no site (parte mais à esquerda da tela). Caso seja de 32 bits selecione [Download Packages](https://www.eclipse.org/downloads/packages/) e escolha a opção correspondente.
+Acesse o site do [Eclipse](https://www.eclipse.org/downloads/), faça o download e instale-o. Caso o computador que irá rodar a automação esteja rodando Windows 64 bits selecione a opção destacada no site (parte mais à esquerda da tela). Caso seja de 32 bits selecione [Download Packages](https://www.eclipse.org/downloads/packages/) e escolha a opção correspondente.
 
 ## Chrome
 
 Acesse o site do [Navegador Chrome](https://www.google.com/chrome/), faça o download e instale.
+
+## Git
+
+Acesse o site de downaload do [Git](https://git-scm.com/downloads), faça o download de acordo com o sistema operacional utilizado e instale-o.
 
 ## Selenium WebDriver
 
