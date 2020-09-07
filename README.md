@@ -38,7 +38,7 @@ Acesse o site do [Navegador Chrome](https://www.google.com/chrome/), faça o dow
 
 ## Git
 
-Acesse o site de downaload do [Git](https://git-scm.com/downloads), faça o download de acordo com o sistema operacional utilizado e instale-o.
+Acesse o site de download do [Git](https://git-scm.com/downloads), faça o download de acordo com o sistema operacional utilizado e instale-o.
 
 ## Selenium WebDriver
 
