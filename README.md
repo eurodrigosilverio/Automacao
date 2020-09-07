@@ -16,6 +16,7 @@ Foram utilizadas as seguintes tecnologias para a automação:
 * Open JDK
 * Eclipse IDE
 * Chrome
+* Git
 * Selenium WebDriver
 * Junit
 * Linguagem Java
