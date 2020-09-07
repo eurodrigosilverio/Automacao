@@ -8,4 +8,4 @@ Esta automação foi desenvolvida para o site da empresa para testar os seguinte
 * Cadastrar novo usuário
 * Validar mensagem de e-mail já existente
 * Validar mensagem senha fraca
-* Inserir cpf inválido e validar a mensagem campo inválido
+* Inserir CPF inválido e validar a mensagem campo inválido
