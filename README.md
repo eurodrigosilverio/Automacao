@@ -10,7 +10,7 @@ Esta automação foi desenvolvida para o site da empresa para testar os seguinte
 * Validar mensagem senha fraca
 * Inserir CPF inválido e validar a mensagem campo inválido
 
-#Tecnologias usadas
+# Tecnologias usadas
 Foram utilizadas as seguintes tecnologias para a automação:
 
 * Open JDK
@@ -24,4 +24,8 @@ Para executar a automação é necessário criar o ambiente necessário instalan
 
 ### Open JDK
 
-* Acesse o site do [Open JDK](https://jdk.java.net/14/) e faça o download da versão 14.0.2. Caso o computador que irá executar a automação seja esteja rodando Windows 64 bits copie a versão *Windows / x64*.
+Acesse o site do [Open JDK](https://jdk.java.net/14/) e faça o download da versão 14.0.2. Caso o computador que irá executar a automação esteja rodando Windows 64 bits copie a versão *Windows / x64*. Caso seja linux ou mac selecione as opções correspondentes.
+
+### Eclipse IDE
+
+Acesse o site do [Eclipse](https://www.eclipse.org/downloads/) e faça o dowload. Caso o computador que irá rodar a automação esteja rodando Windows 64 bits selecione a opção destacada no site (parte mais à esquerda da tela). Caso seja de 32 bits selecione [Download Packages](https://www.eclipse.org/downloads/packages/) e escolha a opção correspondente.
