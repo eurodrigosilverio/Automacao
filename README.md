@@ -85,7 +85,7 @@ Importar o projeto diretamente do eclipe cria toda a estrutura dentro da IDE. Pa
 
 8. A tela "Import Projects from File System or Archive" é apresentada. Clique em "Finish"
 
-![Finalizar Importacao]9https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%208.jpg)
+![Finalizar Importacao](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%208.jpg)
 
 
 
