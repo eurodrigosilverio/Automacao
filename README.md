@@ -63,9 +63,28 @@ Importar o projeto diretamente do eclipe cria toda a estrutura dentro da IDE. Pa
 
 ![ShowView](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%202.jpg)
 
-4. Na parte inferior da janela do Eclipse será apresentada uma opção de clonar o repositório
+4. Na parte inferior da janela do Eclipse será apresentada uma opção de clonar o repositório. Clique na opção "Clonar um repositório Git"
 
 ![Clonar repositório](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%203.jpg)
+
+5. A tela "Clonar Repositório Git" é apresentada. No campo "URI" digite o link do repositório (https://github.com/eurodrigosilverio/Automacao). Cloque em "Next"
+
+![Clonar repositório Git](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%204.jpg)
+
+6. O clone do repositorio será feito. Clique em "Next"
+![Clonar repositorio 1](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%205.jpg)
+
+7. Ainda na tela "Clone Rpository Git" deixe seleciona a opção "Import allexisting Eclipse after clone finishes". Clique em "Finish"
+
+![Clonar repositorio 2](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%206.jpg)
+
+7. A clonagem do projeto é feita. No canto inferior esquerdo da tela do Eclipse é apresentado o repositório. Clique com o botão direito do mouse em cima da pasta do repositório e selecione a opção "Import Projects"
+
+![Projeto clonado](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%207.jpg)
+
+8. A tela "Import Projects from File System or Archive" é apresentada. Clique em "Finish"
+
+![Finalizar Importacao]9https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%208.jpg)
 
 
 
