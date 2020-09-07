@@ -87,6 +87,10 @@ Importar o projeto diretamente do eclipe cria toda a estrutura dentro da IDE. Pa
 
 ![Finalizar Importacao](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%208.jpg)
 
+9. A estrutura do projeto é criada na na parte superior esquerda do Eclipse. Navegue pela estrutura de pastas (como apresentada na imagem abaixo) e execute o arquivo "DesafioQA.java"
 
+![Executar Arquivo](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%209.jpg)
 
+## Autor
+O Autor desse projeto é Rodrigo de Alencar Silvério
 
