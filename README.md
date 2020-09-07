@@ -22,7 +22,9 @@ Foram utilizadas as seguintes tecnologias para a automação:
 * Linguagem Java
 
 # Como executar a automação?
-Para executar a automação é necessário criar o ambiente necessário instalando e configurando as teclogias usadas. O passo a passo é apresentado abaixo:
+Para executar a automação é necessário criar o ambiente necessário instalando, configurando as tecnologias usadas e, além disso, importar o projeto do repositório. O passo a passo é apresentado abaixo:
+
+## Instalando as tecnologias
 
 ### Open JDK
 
@@ -50,3 +52,5 @@ Descompacte o .zip em alguma pasta no seu computador. Para ficar alinhado com o 
 
 - A pasta 84 refere-se à versão do Chrome Driver copiado.
 - Essa estrutura é referenciada no código para executar corretamente a chamada do navegador Chrome. Se descompactar o Chrome Driver em alguma estrutura diferente lembre-se de modificar no código.
+
+## Importanto o projeto do repositório
