@@ -51,7 +51,7 @@ Importar o projeto diretamente do eclipe cria toda a estrutura dentro da IDE. Pa
 
 1. Abra o Eclipse e selecione o "workspace". Pode-se deixar selecionado o padrão apresentado pelo Eclipe.
 
-
+![Selecionando workspace](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%200.jpg)
 
 2. 
 
