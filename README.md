@@ -17,6 +17,7 @@ Foram utilizadas as seguintes tecnologias para a automação:
 * Eclipse IDE
 * Chrome
 * Selenium WebDriver
+* Junit
 * Linguagem Java
 
 # Como executar a automação?
