@@ -92,5 +92,5 @@ Importar o projeto diretamente do eclipe cria toda a estrutura dentro da IDE. Pa
 ![Executar Arquivo](https://github.com/eurodrigosilverio/Automacao/blob/master/Importar%20Arquivos%20-%20Imagens/Importar%209.jpg)
 
 ### Autor
-O Autor desse projeto é Rodrigo de Alencar Silvério
+O Autor desse projeto é Rodrigo de Alencar Silvério.
 
