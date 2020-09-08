@@ -21,7 +21,7 @@ Foram utilizadas as seguintes tecnologias:
 * Linguagem de programação Java
 
 # Como executar a automação?
-Para executar a automação é necessário criar o ambiente necessário: instalar e configurar as tecnologias utilizadas e, além disso, importar o projeto. O passo a passo é apresentado abaixo:
+Para executar a automação é necessário instalar e configurar as tecnologias utilizadas e, além disso, importar o projeto. O passo a passo é apresentado abaixo:
 
 ## Instalando as tecnologias
 
